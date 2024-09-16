@@ -28,3 +28,20 @@ Install the required packages using:
 
 ```bash
 pip install -r requirements.txt
+```
+## Usage
+Prepare Account List:
+
+Add the Hotmail/Outlook accounts in the accounts.txt file in the format email:password, one account per line.
+Run the Script:
+
+Execute the script in your terminal or command prompt:
+```bash
+Copy code
+python outlook.py
+```
+## Contact
+= Telegram: @itz36boda
+- WhatsApp: +201098974486
+## Author
+- Made by: Mustafa N. Salem
