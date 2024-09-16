@@ -41,7 +41,7 @@ Copy code
 python outlook.py
 ```
 ## Contact
-= Telegram: @itz36boda
+- Telegram: @itz36boda
 - WhatsApp: +201098974486
 ## Author
 - Made by: Mustafa N. Salem
